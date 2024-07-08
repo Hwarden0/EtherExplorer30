@@ -26,8 +26,7 @@ Complex contracts exploring advanced Solidity features and best practices.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart-contract-challenge.git
-cd smart-contract-challenge
-
+git clone https://github.com/hishammohamed101/EtherExplorer30
+cd EtherExplorer30
 
 ###
