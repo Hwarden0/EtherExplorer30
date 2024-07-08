@@ -4,6 +4,30 @@
 
 ###
 
-<p align="left">This repository is dedicated to a 30-day challenge of creating Ethereum smart contracts using Solidity. We've categorized the contracts into three levels: beginner, intermediate, and advanced.<br><br>Repository Structure<br>beginner: Basic smart contracts introducing fundamental concepts.<br>intermediate: Contracts building upon beginner concepts with more complexity.<br>advanced: Complex contracts exploring advanced Solidity features and best practices.</p>
+# Smart Contract Challenge Repository
+
+Welcome to the Smart Contract Challenge Repository! This repository is dedicated to a 30-day challenge of creating Ethereum smart contracts using Solidity.
+
+## Overview
+
+We've categorized the contracts into three levels:
+
+### Beginner
+Basic smart contracts introducing fundamental concepts.
+
+### Intermediate
+Contracts building upon beginner concepts with more complexity.
+
+### Advanced
+Complex contracts exploring advanced Solidity features and best practices.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/smart-contract-challenge.git
+cd smart-contract-challenge
+
 
 ###
