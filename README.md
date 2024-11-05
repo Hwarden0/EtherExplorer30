@@ -21,12 +21,5 @@ Contracts building upon beginner concepts with more complexity.
 ### Advanced
 Complex contracts exploring advanced Solidity features and best practices.
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/hishammohamed101/EtherExplorer30
-cd EtherExplorer30
 
 ###
